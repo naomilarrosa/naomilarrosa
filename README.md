@@ -47,6 +47,19 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
 - 📰 [Kaggle](https://www.kaggle.com/) - Plataforma de ciencia de datos que ofrece conjuntos de datos, competencias y recursos educativos.
 - 🎥 [DataCamp](https://www.datacamp.com/) - Plataforma en línea con cursos interactivos sobre análisis de datos y ciencia de datos.
 
+### Tecnologías conocidas
+
+  <img src="./neobrutalist_icons/neo_python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_numpy.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_pandas.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_scipy.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_seaborn.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
+  <img src="./neobrutalist_icons/neo_sklearn.svg" title="Sklearn" alt="Sklearn" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/apache-spark/neo-apache-spark.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/power-bi/neo-power-bi.svg" title="Power-bi" alt="Power-bi" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/Rickhersd/neo-icons/blob/main/icons/streamlit/neo-streamlit.svg" title="Streamlit" alt="Streamlit" width="60" height="60"/>&nbsp;
+
 ### Contacto
 
 ¡Conéctate conmigo en LinkedIn para discutir sobre datos, analítica y más! 📫 [Enlace](www.linkedin.com/in/naomi-d-larrosa-m-a27965271)
