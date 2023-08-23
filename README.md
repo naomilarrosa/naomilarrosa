@@ -49,9 +49,9 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
 
 ### Tecnologías conocidas
 
-  <img src="./neobrutalist_icons/neo_python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="./neobrutalist_icons/neo_numpy.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
-  <img src="./neobrutalist_icons/neo_pandas.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_python.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_numpy.svg" title="Numpy" alt="Numpy" width="60" height="60"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Rickhersd/Rickhersd/09c5bc045c5820e2b7ae1b56c9d2e45df8b2cde5/neobrutalist_icons/neo_pandas.svg" title="Pandas" alt="Pandas" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_scipy.svg" title="Scipy" alt="Scipy" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_matplotlib.svg" title="Matplotlib" alt="Matplotlib" width="60" height="60"/>&nbsp;
   <img src="./neobrutalist_icons/neo_seaborn.svg" title="Seaborn" alt="Seaborn" width="60" height="60"/>&nbsp;
