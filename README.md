@@ -9,7 +9,7 @@
 - 🧰 Amante de las herramientas como Python, Power BI, SQL y más.
 - 🌐 Siempre aprendiendo y explorando nuevas técnicas y tecnologías.
 - 🌸 Amante del anime y el manga, siempre dispuesta a hablar sobre series favoritas y recomendaciones.
-- 🌍 Apasionado por las ciencias naturales y su fascinante exploración del mundo que nos rodea.
+- 🌍 Apasionada por las ciencias naturales y su fascinante exploración del mundo que nos rodea.
 - 📈 En constante búsqueda de formas de convertir datos en conocimientos valiosos.
 
 ### Proyectos Académicos
