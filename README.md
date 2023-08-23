@@ -47,7 +47,7 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
 
 ### Contacto
 
-¡Conéctate conmigo en LinkedIn para discutir sobre datos, analítica y más! 📫 [Enlace a tu perfil de LinkedIn](www.linkedin.com/in/naomi-d-larrosa-m-a27965271)
+¡Conéctate conmigo en LinkedIn para discutir sobre datos, analítica y más! 📫 [Enlace](www.linkedin.com/in/naomi-d-larrosa-m-a27965271)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. ¡No dudes en ponerte en contacto!
 
