@@ -50,7 +50,7 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
 ### Contacto
 
 ¡Conéctate conmigo en LinkedIn para discutir sobre datos, analítica y más! 📫 [Enlace](www.linkedin.com/in/naomi-d-larrosa-m-a27965271)
-
+¡También puedes contactarme a través de mi dirección de correo electrónico: [naomidonna00@gmail.com]
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. ¡No dudes en ponerte en contacto!
 
 👋
