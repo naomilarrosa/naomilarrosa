@@ -20,7 +20,7 @@ En mi proyecto "MLOps", asumí el rol de Data Engineer en Machine Learning Opera
 
 #### [Análisis del Mercado de Criptomonedas](https://github.com/naomilarrosa/Cryptocurrency-Market-Data-Analytics)
 
-En mi proyecto "Análisis del Mercado de Criptomonedas", exploré patrones y tendencias de criptomonedas en los últimos 3 años utilizando datos de la API CoinGecko. Visualicé KPIs como variación de precios, volumen de operaciones y capitalización de mercado. Realicé un análisis comparativo y presenté historias de criptomonedas emblemáticas. 
+En mi proyecto "Análisis del Mercado de Criptomonedas", exploré patrones y tendencias de criptomonedas en los últimos 3 años utilizando datos de la API CoinGecko. Visualicé variación de precios, volumen de operaciones y capitalización de mercado. Realicé un análisis comparativo y presenté historias de criptomonedas emblemáticas. 
 
 ### Lo que he Aprendido
 
