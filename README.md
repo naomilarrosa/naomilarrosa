@@ -71,6 +71,8 @@ Aquí comparto algunos recursos que encuentro útiles para el análisis de datos
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="60" height="60"/>&nbsp;
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" title="Discord" alt="Discord" width="60" height="60"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VSCode" width="60" height="60"/>&nbsp;
+  <img src="https://25322853.fs1.hubspotusercontent-eu1.net/hub/25322853/hubfs/STAGIL_January2022/Images/jira-software-logo-jira-logo-hd-png.png?width=360&name=jira-software-logo-jira-logo-hd-png.png" title="Jira" alt="Jira" width="60" height="60"/>&nbsp;
+  <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/google-cloud-square.png" title="Google Cloud Plataform" alt="Google Cloud Plataform" width="60" height="60"/>&nbsp;
 
 ### Contacto
 
