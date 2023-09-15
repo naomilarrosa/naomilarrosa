@@ -14,6 +14,10 @@
 
 ### Proyectos Académicos
 
+### [Análisis de Holiday Inn en Google Maps y Yelp](https://github.com/MartiPeker/Proyecto-Google-Yelp/tree/main)
+
+Durante el período del 28 de agosto al 15 de septiembre de 2023, en el marco de mi experiencia académica en Henry Bootcamp, desempeñé el papel principal de Data Analyst en un proyecto centrado en el análisis de las reseñas, opiniones y check-ins de clientes de Holiday Inn en plataformas como Google Maps y Yelp. Este proyecto abarcó la recopilación, procesamiento y aplicación de técnicas de Machine Learning en NLP para evaluar el sentimiento de las opiniones, con el objetivo de obtener información valiosa para mejorar la satisfacción del cliente. Utilicé herramientas y tecnologías como Python (con Pandas, Matplotlib, Seaborn y Vader), Google Cloud Platform (GCP) para la gestión de datos, Power-BI para crear cuadros de mando interactivos y modelos entrenados de Machine Learning para llevar a cabo un análisis FODA. Mis responsabilidades incluyeron la recopilación y procesamiento de datos de reseñas, análisis exploratorio de datos (EDA), aplicación de técnicas de NLP, colaboración en la visualización de un modelo de Machine Learning (Análisis FODA), desarrollo de cuadros de mando interactivos en Power-BI y contribución en la redacción y elaboración del proyecto.
+
 #### [MLOps - Proyecto Individual](https://github.com/naomilarrosa/mlops-pi)
 
 En mi proyecto "MLOps", asumí el rol de Data Engineer en Machine Learning Operations. Desarrollé una API como parte de un sistema MLOps para integrar modelos de Machine Learning en aplicaciones empresariales. Desde la extracción de datos hasta el despliegue en la nube, cubrí cada etapa. También creé un modelo de predicción basado en variables como metascore, acceso temprano, año y género, para predecir precios de juegos. Utilicé herramientas como Visual Studio Code, Jupyter Notebook, Python, Pandas, Matplotlib, scikit-learn, FastAPI, Git y GitHub para llevar a cabo este proyecto.
